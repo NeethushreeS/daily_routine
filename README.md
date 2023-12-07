@@ -1,7 +1,7 @@
 # daily_routine
 I have undertaken an initiative to learn machine learning algorithms, specifically deep learning. This involves working on a set of projects that utilize data collected by tracking the practices I aim to follow regularly. The underlying logic behind this initiative is that by working on projects using my own personal data, I believe it will motivate me to maintain consistency and build the momentum needed to master AI for solving real-world problems.
 
-1. Food Image Classification
+1. RagiRiceGastronome : Dish Classification System using Food Image Classification
    
    I have implemented a binary image classifier using a convolutional neural network 
    that takes food images as input and outputs the corresponding food class.
@@ -9,7 +9,24 @@ I have undertaken an initiative to learn machine learning algorithms, specifical
    daily, which makes it particularly interesting.
    
    platform - GoogleColab | framework - TensorFlow | human_API - Keras | libraries -
-   Pandas,Numpy,Matplotlib | model_reference - tinyVGG
+   Pandas,Numpy,Matplotlib | language - Python | model_reference - tinyVGG | convNet - Vgg
 
-   CODE - 
+   PROJECT - https://github.com/users/NeethushreeS/projects/1
+   CODE - https://colab.research.google.com/drive/1zJyYd9H3u1eq075Y2UYaBi-2pxRtaY2X?usp=sharing
    DATASET - https://github.com/users/NeethushreeS/projects/1/views/1?pane=issue&itemId=46789580
+
+2. CycleSense : Perception Builiding for Menstrual Cycle Tracking 
+
+   Many projects aim to predict menstrual dates by measuring specific physiological metrics, which can 
+   be impractical and inconvenient for users. I believe that the menstrual cycle is crucial and intimate 
+   in women's health. Therefore, a tool that assists in building perception to assess reproductive 
+   health, recognizes emotional patterns for emotional well-being by recording daily events' timestamps, 
+   food intake, and sleep hours synced with the monthly cycle, would be more beneficial. The tool would 
+   analyze each data entry to generate a monthly report and suggest changes. Raise awareness of how 
+   everything is interconnected and how each element impacts one another.
+
+   The work is currently in the stage of collecting data
+
+   DATASET - 
+
+   
