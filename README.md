@@ -11,5 +11,5 @@ I have undertaken an initiative to learn machine learning algorithms, specifical
    platform - GoogleColab | framework - TensorFlow | human_API - Keras | libraries -
    Pandas,Numpy,Matplotlib | model_reference - tinyVGG
 
-   CODE -
-   DATASET - 
+   CODE - 
+   DATASET - https://github.com/users/NeethushreeS/projects/1/views/1?pane=issue&itemId=46789580
